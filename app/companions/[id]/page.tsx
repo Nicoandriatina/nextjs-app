@@ -1,6 +1,6 @@
 
 
-const CompanionSession = () => {
+const CompanionLibrary = () => {
   return (
     <div>CompanionSession
 
@@ -8,4 +8,4 @@ const CompanionSession = () => {
   )
 }
 
-export default CompanionSession
+export default CompanionLibrary
