@@ -48,7 +48,6 @@ const CompanionForm = () => {
         },
     })
 
-    
     const onSubmit = async (values: z.infer<typeof formSchema>) => {
         const companion = await createCompanion(values);
 
